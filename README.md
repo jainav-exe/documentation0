@@ -16,7 +16,7 @@
 - Supports modern JavaScript: ES5, ES2017, JSX, Vue and [Flow](https://flow.org/) type annotations.
 - Infers parameters, types, membership, and more. Write less documentation: let the computer write it for you.
 - Integrates with GitHub to link directly from documentation to the code it refers to.
-- Customizable output: HTML, JSON, Markdown, and more
+- Customizable output: HTML, JSON, Markdown, and more.
 
 ## Examples
 
@@ -26,15 +26,15 @@
 
 ## Documentation
 
-- [Getting Started](docs/GETTING_STARTED.md): start here
-- [Usage](docs/USAGE.md): how to use documentation.js
-- [Recipes](docs/RECIPES.md): tricks for writing effective JSDoc docs
-- [Node API](docs/NODE_API.md): documentation.js's self-generated documentation
+- [Getting Started](docs/GETTING_STARTED.md): start here.
+- [Usage](docs/USAGE.md): how to use documentation.js.
+- [Recipes](docs/RECIPES.md): tricks for writing effective JSDoc docs.
+- [Node API](docs/NODE_API.md): documentation.js's self-generated documentation.
 - [Configuring documentation.js](docs/CONFIG.md)
 - [FAQ](docs/FAQ.md)
 - [Troubleshooting](docs/TROUBLESHOOTING.md)
-- [Theming](docs/THEMING.md): tips for theming documentation output in HTML
-- [See also](https://github.com/documentationjs/documentation/wiki/See-also): a list of projects similar to documentation.js
+- [Theming](docs/THEMING.md): tips for theming documentation output in HTML.
+- [See also](https://github.com/documentationjs/documentation/wiki/See-also): a list of projects similar to documentation.js.
 
 ## User Guide
 
